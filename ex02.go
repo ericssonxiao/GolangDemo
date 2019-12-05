@@ -24,4 +24,5 @@ func main() {
 
 	myArray()
 	myString()
+
 }
