@@ -23,6 +23,6 @@ func main() {
 	fmt.Println(ss)
 
 	myArray()
-	myString()
+	//myString()
 
 }
