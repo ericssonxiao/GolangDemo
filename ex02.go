@@ -9,6 +9,10 @@ func myArray() {
 	fmt.Println(arr)
 }
 
+func myString() {
+
+}
+
 func main() {
 	fmt.Printf("hello %s\n", "world")
 	m1 := 1
@@ -19,4 +23,5 @@ func main() {
 	fmt.Println(ss)
 
 	myArray()
+	myString()
 }
