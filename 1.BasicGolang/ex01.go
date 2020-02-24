@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"os"
 )
@@ -16,6 +15,7 @@ func tryOpenFile() {
 	}
 }
 
+/*
 func main() {
 	fmt.Println("this is simple function, hello world.")
 	//tryOpenFile()
@@ -25,3 +25,4 @@ func main() {
 		fmt.Printf("%d: %s\n", k, v)
 	}
 }
+*/
